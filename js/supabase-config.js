@@ -1,0 +1,1 @@
+window.SUPABASE = { url: 'https://cgnkhwccolynhwrudthj.supabase.co', anonKey: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNnbmtod2Njb2x5bmh3cnVkdGhqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODg4NjQyNjYsImV4cCI6MjEwNDQ0MDI2Nn0.fBcyygtFYfGGCS7T4pVscpdEZ6CPwurVU_A9IWcFhus' };
