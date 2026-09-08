@@ -1,4 +1,4 @@
-const CACHE = 'laundry-pro-v5';
+const CACHE = 'laundry-pro-v6';
 const ASSETS = [
     './',
     'index.html',
